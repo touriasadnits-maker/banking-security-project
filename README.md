@@ -1,4 +1,4 @@
-# banking-security-project
+# Aegis_core
 
 🏦 **Autonomous Multi-Agent Fraud Detection System**
 
